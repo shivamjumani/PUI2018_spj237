@@ -1,3 +1,5 @@
+# developed by Shivam Jumani. I took help from Youtube videos to understand how to analyse a JSON file. I also referred to someone's GITHUB repo to find code that carried out a similar function to use the loop function to search for 'n' in the JSON file. It took me a while to understand the syntax, and at times I had to ask small questions to a friend outside of CUSP who is familiar with python.
+
 from __future__ import print_function
 import json
 import sys
