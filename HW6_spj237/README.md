@@ -18,7 +18,7 @@ I worked with Manu Pathak. He did the first test, and I did the second and third
 | Logistic Regression     |Multiple, the presence of 2 or more arts organizations, a natural amenities scale, the presence of a college granting at least a 4-year degree, the share of the population aged 25–44 with at least a college degree, and the median monthly housing rental cost |binary, continuos  |Design orientation (3 options)|categorical|3, establishment size class, the population density of the county, and industry membership|categorical, continuous|whether an independent relationship between performing arts organizations and design orientation still exists after controlling for other community characteristics | There is no relationship between performing arts organizations and design orientation | NA | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192962 |
   |||||||||
 
-![main plot](logistic_regression.png)
+![main plot](https://user-images.githubusercontent.com/42758529/47061778-fe867f80-d1a0-11e8-9302-943084d7d2a4.PNG)
 
 Assignment 3
 I was not able to complete this fully due to lack of time.
