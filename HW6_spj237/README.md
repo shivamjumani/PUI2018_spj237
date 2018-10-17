@@ -15,6 +15,13 @@ I worked with Manu Pathak. He did the first test, and I did the second and third
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+| Spearman’s correlation coefficient | Inequality index | continuos  | antibiotics resistance (Defined daily Doses per 1000 inhabitants per day) | categorical | NA | NA | if correlations exist between income inequality and antimicrobial resistance | No correlations exist between income inequality and antimicrobial resistance | NA |https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073115 |
+  |||||||||
+
+![main plot](https://user-images.githubusercontent.com/42758529/47090592-361d1800-d1f1-11e8-8b1f-d264cebd57af.png)
+
+| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 | Logistic Regression     |Multiple, the presence of 2 or more arts organizations, a natural amenities scale, the presence of a college granting at least a 4-year degree, the share of the population aged 25–44 with at least a college degree, and the median monthly housing rental cost |binary, continuos  |Design orientation (3 options)|categorical|3, establishment size class, the population density of the county, and industry membership|categorical, continuous|whether an independent relationship between performing arts organizations and design orientation still exists after controlling for other community characteristics | There is no relationship between performing arts organizations and design orientation | NA | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192962 |
   |||||||||
 
