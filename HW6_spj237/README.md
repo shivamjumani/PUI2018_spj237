@@ -11,7 +11,7 @@ I worked with Manu Pathak. He did the first test, and I did the second and third
   |||||||||
   
   
-![main plot](ancovaplosone.png)
+![main plot](https://user-images.githubusercontent.com/42758529/47118195-91bcc500-d234-11e8-9a48-ceb33044dd20.png)
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
