@@ -1,5 +1,5 @@
 Junru Lu's plot (lj1230)
-![Alt text]('https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW8_lj1230/plot.png')
+![Alt text](https://github.com/LuJunru/PUI2018_lj1230/blob/master/HW8_lj1230/plot.png)
 
 That's a very clear plot you've created. There is no distracting element, and choosing a scatter plot 
 doesn't lead to any kind of distortion or misrepresentation of the data. It may help to reduce the size
